@@ -1,8 +1,16 @@
 # EventBubblingTest
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
+It is a demo application to see how's working the Event Bubbling.
+There is four separated example:
+- Bubbling without stop
+- Bubbling with normal stop
+- Bubbling with immediate stop
+- Show phases
 
-## Reference for this demo application
+To use it, click on the proper text to see the magic :)
+
+## References
 
 - https://javascript.info/bubbling-and-capturing
 - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events#event_bubbling_and_capture
